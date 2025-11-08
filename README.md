@@ -141,7 +141,7 @@ The AI development workflow followed the **CRISP-DM framework**:
 6. Deployment  
 7. Monitoring & Maintenance  
 
-![Workflow Diagram](docs/../workflow_diagram.png)
+![Workflow Diagram](docs/workflow_diagram.png)
 
 ---
 
@@ -156,15 +156,8 @@ The AI development workflow followed the **CRISP-DM framework**:
 
 ## 👥 Contributors
 
-- **Otieno Mohan** – Data Analyst / AI Developer  
+- **Otieno Mohan** – Data Scientist / AI Developer  
 - *Peer group collaboration as per PLP Academy requirements.*
 
 ---
 
-## 📚 References
-
-- CRISP-DM Model – Cross Industry Standard Process for Data Mining  
-- Scikit-learn Documentation: [https://scikit-learn.org](https://scikit-learn.org)  
-- TensorFlow Documentation: [https://www.tensorflow.org](https://www.tensorflow.org)
-
----
